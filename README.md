@@ -8,19 +8,15 @@ Target platform:
 github
 
 Visuals:
-Screenshots (concept and experience), Video
+<img src="screenshot/screenshot.PNG">
 
 Necessary setup/execution steps:
 watch tutorial
 
-Third party material:
--
+
 
 Project state:
 done
 
-Limitations:
--
-Lessons Learned:
--
+
 Copyright by smederer
