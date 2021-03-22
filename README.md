@@ -8,7 +8,11 @@ Target platform:
 github
 
 Visuals:
-<img src="screenshot/screenshot.PNG">
+
+<img src="screenshot/screenshot.PNG" width=500>
+
+<img src="screenshot/screenshot02.PNG" width=500>
+
 
 Necessary setup/execution steps:
 watch tutorial
